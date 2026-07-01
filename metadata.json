@@ -1,0 +1,6 @@
+{
+  "name": "Internship Landing Page",
+  "description": "A modern, premium, and fully responsive Internship Landing Page inspired by Google, Microsoft, and Coursera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
